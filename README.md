@@ -1,1 +1,1 @@
-# Advant-of-Code
+# Solutions for Advant of Code: https://adventofcode.com/
